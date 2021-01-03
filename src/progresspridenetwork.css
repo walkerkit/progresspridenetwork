@@ -1,0 +1,9 @@
+html,
+body {
+  margin: 0 auto;
+}
+#progress-pride-canvas {
+  height: 100vh;
+  width: 100vw;
+  background-color: #353839;
+}
